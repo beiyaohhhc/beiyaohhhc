@@ -6,4 +6,6 @@
 
 **Contact**：beiyao.chen@qq.com
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=beiyaohhhc)](https://github.com/anuraghazra/github-readme-stats)
+<a href="https://github.com/beiyaohhhc"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=beiyaohhhc&layout=compact&theme=dark&hide_border=true" /></a>
+
+<a href="https://github.com/beiyaohhhc"><img align="center" src="https://github-readme-stats.vercel.app/api?username=beiyaohhhc&show_icons=true&include_all_commits=true&theme=vue&hide_border=true" alt="beiyao's github stats" /></a>
